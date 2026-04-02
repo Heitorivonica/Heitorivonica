@@ -29,7 +29,7 @@ Agora, busco um **estágio em backend** para aprender na prática, contribuir co
 -   🎯 **Estágio em Desenvolvimento Backend** - Primeiro passo na carreira tech
 -   🚀 **Vaga Júnior** - Oportunidade para crescer e entregar valor
 -   💻 **Desenvolvimento de APIs** - Criando endpoints eficientes e bem documentados
--   🗄️ **Banco de Dados** - Modelagem e manipulação com MongoDB e SQL
+-   🗄️ **Banco de Dados** - Modelagem e manipulação com MongoDB(Aberto para aprender novos Bancos de Dados)
 -   🔐 **Autenticação e Segurança** - Implementação de login, roles e proteção de rotas
 -   🧩 **Integrações** - Conexão entre sistemas, webhooks e serviços externos
 -   📚 **Aprendizado contínuo** - Sempre estudando novas tecnologias e boas práticas
