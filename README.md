@@ -53,12 +53,7 @@ Agora, busco um **estágio em backend** para aprender na prática, contribuir co
 ---
 
 ## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Heitorivonica&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitorivonica&layout=compact&theme=tokyonight" />
-</div>
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Heitorivonica&show_icons=true&theme=tokyonight)
 ---
 
 ## 🚀 Filosofia
