@@ -65,8 +65,4 @@ Agora, busco um **estágio em backend** para aprender na prática, contribuir co
 
 > _"Código não é só sobre resolver problemas.  
 > É sobre construir soluções que escalam, duram e geram valor real."_
-
 ---
-
-⭐ Se você gosta do meu trabalho, considere dar uma estrela em um repositório  
-🤝 Sempre aberto a colaborações, parcerias e ideias legais
