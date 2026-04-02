@@ -18,7 +18,7 @@ Agora, busco um **estágio em backend** para aprender na prática, contribuir co
   <a href="https://github.com/Heitorivonica">
     <img src="https://img.shields.io/badge/GitHub-Heitorivonica-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/heitor-ivonica">
+  <a href="https://www.linkedin.com/in/heitor-ivonica-438b11290/">
     <img src="https://img.shields.io/badge/LinkedIn-Heitor%20Ivonica-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
