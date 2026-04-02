@@ -20,11 +20,9 @@ Agora, busco um **estágio em backend** para aprender na prática, contribuir co
   </a>
  
   <a href="https://www.linkedin.com/in/heitor-ivonica-438b11290/">
-    <img src="https://img.shields.io/badge/TikTok-[SEU @]-000000?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/badge/Linkedln-Heitor Ivonica-000000?style=for-the-badge&logo=linkedln" />
   </a>
-  <a href="[SEU LINK YOUTUBE]">
-    <img src="https://img.shields.io/badge/YouTube-[SEU CANAL]-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+
 </p>
 
 ---
