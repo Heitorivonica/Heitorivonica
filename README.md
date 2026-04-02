@@ -5,7 +5,7 @@
 
 Estou em transição de carreira para o desenvolvimento **backend com Node.js**.  
 
-Atualmente, estudo e construo **APIs REST**, integro bancos de dados ( MongoDB) e aplico boas práticas com **JavaScript, Express e Git**.  
+Atualmente, estudo e construo **APIs REST**, integro bancos de dados ( MongoDB) e aplico boas práticas com **JavaScript, TypeScript, Express e Git**.  
 
 Tenho experiência anterior com **suporte técnico e automações**, o que me deu uma base sólida em lógica e resolução de problemas.  
 
