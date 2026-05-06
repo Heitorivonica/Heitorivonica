@@ -1,15 +1,16 @@
 # Olá 👋, Eu sou o Heitor
 
-🚀 **Estagiário em Analise de Desenvolvimento de Sistemas| Foco em Node.js / Estudando Node.js APIS **  
+🚀 **Estagiário em Análise e Desenvolvimento de Sistemas | Foco em Java / Estudando Java**  
 🇧🇷 Brasil
 
-Estou em transição de carreira para o desenvolvimento **backend com Node.js**.  
+Estou em transição de carreira para o desenvolvimento **backend com Java**.  
 
-Atualmente, estudo e construo **APIs REST**, integro bancos de dados ( MongoDB) e aplico boas práticas com **JavaScript, TypeScript, Express e Git**.  
+Atualmente, estudo e construo **APIs REST com Spring Boot**, integro bancos de dados (MongoDB e SQL) e aplico boas práticas com **Java, Git e GitHub**.  
 
-Tenho experiência anterior com **suporte técnico e automações**, o que me deu uma base sólida em lógica e resolução de problemas.  
+Tenho experiência anterior com **suporte técnico e infraestrutura**, o que me deu uma base sólida em lógica, resolução de problemas e atendimento a usuários.  
 
-Agora, busco um **estágio em backend** para aprender na prática, contribuir com código de qualidade e evoluir como desenvolvedor.
+Agora, busco um **estágio em backend** para aprender na prática, contribuir com código de qualidade e evoluir como desenvolvedor Java.
+
 ---
 
 ## 🌐 Onde me encontrar
@@ -26,38 +27,39 @@ Agora, busco um **estágio em backend** para aprender na prática, contribuir co
 ---
 
 ## 🧠 O que estou buscando
--   🎯 **Estágio em Desenvolvimento Backend** - Primeiro passo na carreira tech
--   🚀 **Vaga Júnior** - Oportunidade para crescer e entregar valor
--   💻 **Desenvolvimento de APIs** - Criando endpoints eficientes e bem documentados
--   🗄️ **Banco de Dados** - Modelagem e manipulação com MongoDB(Aberto para aprender novos Bancos de Dados)
--   🔐 **Autenticação e Segurança** - Implementação de login, roles e proteção de rotas
--   🧩 **Integrações** - Conexão entre sistemas, webhooks e serviços externos
--   📚 **Aprendizado contínuo** - Sempre estudando novas tecnologias e boas práticas
--   🤝 **Trabalho em equipe** - Colaboração, code reviews e versionamento com Git
+- 🎯 **Estágio em Desenvolvimento Backend Java** - Primeiro passo na carreira tech
+- 🚀 **Vaga Júnior** - Oportunidade para crescer e entregar valor
+- 💻 **Desenvolvimento de APIs REST** - Criando endpoints eficientes com Spring Boot
+- 🗄️ **Banco de Dados** - Modelagem e manipulação com MongoDB e SQL (aberto para aprender novos bancos)
+- 🔐 **Autenticação e Segurança** - Implementação com Spring Security, JWT e roles
+- 🧩 **Integrações** - Conexão entre sistemas, webhooks e serviços externos
+- 📚 **Aprendizado contínuo** - Sempre estudando novas tecnologias e boas práticas do ecossistema Java
+- 🤝 **Trabalho em equipe** - Colaboração, code reviews e versionamento com Git
 
 ---
 
 ## 🛠️ Minhas Tecnologias
 
 ### Backend
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Heitorivonica&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 🚀 Filosofia
 
 > _"Código não é só sobre resolver problemas.  
 > É sobre construir soluções que escalam, duram e geram valor real."_
----
