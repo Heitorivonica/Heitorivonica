@@ -74,7 +74,7 @@ Meu portfólio, reconstruído do zero: a primeira versão era em HTML, CSS e Jav
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Heitorivonica&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heitorivonica&show_icons=true&theme=tokyonight)
 
 ---
 
