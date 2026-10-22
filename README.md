@@ -29,7 +29,6 @@ Vim do **suporte técnico e infraestrutura**, onde aprendi a resolver problemas 
 ---
 
 ## 🧠 O que estou buscando
-- 🎯 **Vaga de Desenvolvedor Front-end ou Fullstack** (estágio ou júnior)
 - 🎨 **Interfaces com React**: componentes reutilizáveis, código organizado e foco na experiência do usuário
 - 📱 **Responsividade**: layouts que se adaptam a qualquer tela
 - 💻 **APIs REST**: integração entre front-end e back-end
